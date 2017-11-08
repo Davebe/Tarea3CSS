@@ -4,8 +4,8 @@ A continuacion te dejo el enlace a la pagina de [RawGit](https://rawgit.com/Dave
 
 _Imagen de validacion del archivo html_
 
-![Imagen del validador del codigo](./IMG/Imagen3.png)
+![Imagen del validador del codigo](./img/Imagen3.png)
 
 _Imagen de validacion del archivo css_
 
-![Imagen del validador del codigo](./IMG/Imagen4.png)
+![Imagen del validador del codigo](./img/Imagen4.png)
