@@ -1,0 +1,67 @@
+body {
+    background-color:#E3EFF3;
+    font-family:Arial;
+    text-align: justify;
+    font-size:100%;
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:50px;
+}
+
+h1 {background:#143A52;
+    color:#E3EFF3;
+    text-align:center;
+ }
+
+div.imagen1 {float: left;
+    margin-right: 15px;
+}
+
+div.imagen2 {float: right;
+    margin-left:15px;
+    margin-top: 15px;
+ }
+
+#turtle-list-container {
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 350px;
+}
+
+#turtle-list-container td, #turtle-list-container th {
+    border: 1px solid rgb(14, 13, 13);
+    padding: 8px;
+    text-align:center;
+}
+
+#turtle-list-container tr:nth-child(even){background-color: #f2f2f2;}
+
+#turtle-list-container tr:hover {background-color: #ddd;}
+
+#turtle-list-container th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+ /* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
